@@ -1,1 +1,2 @@
 # Real-Time-Rickshaw-Detection-Using-YOLO-Based-Model-for-Traffic-Safety
+Collected, annotated and augmented (shear augmentation) 300 Rickshaw images of different instances. Trained the model with 40 epochs and we got mean average precision (mAP)_ 0.5 at 92.4%. The precision curve converged over 90%, the recall curve converged around 90%, the mean average precision (mAP)_ 0.5:0.95 converged around 70%.
